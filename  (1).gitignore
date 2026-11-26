@@ -1,0 +1,9 @@
+# Tabelas do FINBRA (> 100 MB cada): baixar do Siconfi, ver README
+bases/rec_orc.csv
+bases/desp_orc.csv
+bases/desp_por-func.csv
+
+# Arquivos de sessão do R
+.Rhistory
+.RData
+.Rproj.user/
